@@ -42,11 +42,9 @@ Inference from the data -
   
   -	Years at company, in current role and with current manager indicate that employees tend to quit early in job. The skewness of graphs indicate that older and more experienced employees tend to stay with the company.
 
-While doing the predictive modeeling part, achieved a max f1-score of 87% with precision and recall of 96% and 89% for **class 0** and 40% and 68% for **class 1** using a SVM model. This huge difference is due to the imbalances in classes in the data.
+While doing predictive modelling , achieved a max f1-score of 87% with precision and recall of 96% and 89% for **class 0** and 40% and 68% for **class 1** using a SVM model. This huge difference is due to the imbalances in classes in the data.
 
 Further data processing using SMOTE oversampling was done to balance the classes and bring down the difference. Final maximum f1-score achieved is 93% with precision and recall of 96% and 90% for **class 0** and 89% and 95% for **class 1**.
 
 
-
-Note: This is a fictional data set created by IBM data scientists.
 
