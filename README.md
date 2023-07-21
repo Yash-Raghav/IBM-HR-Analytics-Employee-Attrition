@@ -1,5 +1,8 @@
 # IBM-HR-Analytics-Employee-Attrition
 
+![employee-attrition](https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/6682f13d-5cdc-4008-a0be-c74c9d18c7e3)
+
+
 Problem: Why Workers Quit?
 
 
@@ -13,7 +16,7 @@ Employees are the backbone of the organization. Organization's performance is he
 
   -	Impact to profit
 
-Aim: To uncover the factors that lead to employee attrition and explore the relations between different variables.
+**Aim: To uncover the factors that lead to employee attrition and explore the relations between different variables.**
 
 
 Inference from the data - 
@@ -44,7 +47,11 @@ Inference from the data -
 
 While doing predictive modelling , achieved a max f1-score of 87% with precision and recall of 96% and 89% for **class 0** and 40% and 68% for **class 1** using a SVM model. This huge difference is due to the imbalances in classes in the data.
 
+![image](https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/f3313489-2a71-4b4a-b5f9-40b9b79304ea)
+
 Further data processing using SMOTE oversampling was done to balance the classes and bring down the difference. Final maximum f1-score achieved is 93% with precision and recall of 96% and 90% for **class 0** and 89% and 95% for **class 1**.
+
+![image](https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/fa735871-1051-48b8-b5db-8636f7b6f8d2)
 
 
 
