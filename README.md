@@ -19,7 +19,7 @@ Employees are the backbone of the organization. Organization's performance is he
 **Aim: To uncover the factors that lead to employee attrition and explore the relations between different variables.**
 
 
-Inference from the data - 
+Insights gathered from the data - 
 
   -	Attrition rate related to gender is biased a little bit (2%) towards male side but not necessarily indicative of any pattern.
   
