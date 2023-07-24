@@ -4,7 +4,7 @@
 <img src="https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/6682f13d-5cdc-4008-a0be-c74c9d18c7e3" width="500" height="500"> 
 
 
-Problem: Why Workers Quit?
+Problem: Why Workers Quit? 
 
 
 Employees are the backbone of the organization. Organization's performance is heavily based on the quality of the employees. Challenges that an organization has to face due to employee attrition are:
