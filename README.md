@@ -1,6 +1,7 @@
 # IBM-HR-Analytics-Employee-Attrition
 
-![employee-attrition](https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/6682f13d-5cdc-4008-a0be-c74c9d18c7e3)
+
+<img src="https://github.com/Yash-Raghav/IBM-HR-Analytics-Employee-Attrition/assets/82383225/6682f13d-5cdc-4008-a0be-c74c9d18c7e3" width="500" height="500">
 
 
 Problem: Why Workers Quit?
